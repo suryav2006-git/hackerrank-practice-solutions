@@ -43,4 +43,4 @@ This repository may contain my HackerRank solutions for:
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=suryav2006-git&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com/?user=suryav2006-git&theme=tokyonight)
