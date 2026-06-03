@@ -2,10 +2,11 @@
 
 Automatically updated from my HackerRank profile.
 
-## 👨‍💻 Profiles
+## 👨‍💻 My Other Profiles
 
-- GitHub: https://github.com/suryav2006-git
-- HackerRank: https://www.hackerrank.com/mrstudieshelper
+- Leetcode: https://leetcode.com/u/suryav2006-lee/
+- Geeksforgeeks: https://www.geeksforgeeks.org/profile/mrstudieshelper
+- Linkedin: https://www.linkedin.com/in/suryav2006-lin 
 
 ---
 
@@ -13,14 +14,11 @@ Automatically updated from my HackerRank profile.
 
 <!-- HACKERRANK_STATS_START -->
 
-## 📊 HackerRank Statistics
 
 | Metric | Value |
 |---------|---------|
 | Username | mrstudieshelper |
 | Profile | https://www.hackerrank.com/mrstudieshelper |
-| Scraped Badges | 434 |
-| Scraped Stars References | 399 |
 
 _Last Updated Automatically_
 
@@ -30,7 +28,7 @@ _Last Updated Automatically_
 
 ## 📚 Repository Contents
 
-This repository contains my HackerRank solutions for:
+This repository may contain my HackerRank solutions for:
 
 - Problem Solving
 - Data Structures
@@ -42,14 +40,7 @@ This repository contains my HackerRank solutions for:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryav2006-git&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryav2006-git&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=suryav2006-git&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=suryav2006-git&theme=merko)
