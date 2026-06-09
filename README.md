@@ -2,28 +2,15 @@
 
 Automatically updated from my HackerRank profile.
 
-## 👨‍💻 My Other Profiles
 
-- Leetcode: https://leetcode.com/u/suryav2006-lee/
-- Geeksforgeeks: https://www.geeksforgeeks.org/profile/mrstudieshelper
-- Linkedin: https://www.linkedin.com/in/suryav2006-lin 
-
----
-
-## 📊 HackerRank Statistics
+## 📊 HackerRank Profile
 
 <!-- HACKERRANK_STATS_START -->
 
-## 📊 HackerRank Statistics
-
-| Metric | Value |
+| Metric | Description |
 |---------|---------|
 | Username | mrstudieshelper |
-| Profile | https://www.hackerrank.com/mrstudieshelper |
-| Scraped Badges | 434 |
-| Scraped Stars References | 402 |
-
-_Last Updated Automatically_
+| Link | https://www.hackerrank.com/mrstudieshelper |
 
 <!-- HACKERRANK_STATS_END -->
 
@@ -43,7 +30,16 @@ This repository may contain my HackerRank solutions for:
 
 ---
 
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suryav2006-git&theme=light)
+
+---
+
+## 👨‍💻 My Other Profiles
+
+- Leetcode: https://leetcode.com/u/suryav2006-lee/
+- Geeksforgeeks: https://www.geeksforgeeks.org/profile/mrstudieshelper
+- Linkedin: https://www.linkedin.com/in/suryav2006-lin 
+
+---
