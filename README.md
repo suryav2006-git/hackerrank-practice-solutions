@@ -7,10 +7,16 @@ Automatically updated from my HackerRank profile.
 
 <!-- HACKERRANK_STATS_START -->
 
-| Metric | Description |
+## 📊 HackerRank Statistics
+
+| Metric | Value |
 |---------|---------|
 | Username | mrstudieshelper |
-| Link | https://www.hackerrank.com/mrstudieshelper |
+| Profile | https://www.hackerrank.com/mrstudieshelper |
+| Scraped Badges | 434 |
+| Scraped Stars References | 402 |
+
+_Last Updated Automatically_
 
 <!-- HACKERRANK_STATS_END -->
 
